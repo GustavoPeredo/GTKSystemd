@@ -1,0 +1,7 @@
+data/org.gustavoperedo.GTKSytemd.desktop.in
+data/org.gustavoperedo.GTKSytemd.appdata.xml.in
+data/org.gustavoperedo.GTKSytemd.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
