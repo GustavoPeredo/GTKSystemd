@@ -1,6 +1,6 @@
 # GTKSytemD
-![GTKSystemD](https://github.com/GustavoPeredo/GTKSytemD/blob/master/icons_and_screenshots/logo.png)
-![GTKSystemD](https://github.com/GustavoPeredo/GTKSytemD/blob/master/icons_and_screenshots/screenshot.png)
+![GTKSystemD](https://raw.githubusercontent.com/GustavoPeredo/GTKSystemd/master/icons_and_screenshots/logo.png)
+![GTKSystemD](https://raw.githubusercontent.com/GustavoPeredo/GTKSystemd/master/icons_and_screenshots/screenshot.png)
 
 KDE already has a System Settings module that allows Systemd management, this is an attempt to bring a GUI interface for Sstemd management in GNOME.
 
@@ -15,7 +15,7 @@ sudo dnf install libhandy1-dev python3-numpy
 Simply cloning this app with GNOME Builder after installing the dependencies should be enough to compile, but if you prefer using the terminal or another IDE, here are the building instructions:
 
 ```
-git clone https://github.com/GustavoPeredo/GTKSytemD.git
+git clone https://github.com/GustavoPeredo/GTKSytemd.git
 cd GTKSystemd
 mkdir build
 meson build .
